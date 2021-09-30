@@ -19,7 +19,7 @@ Either through cloning with git or by using [npm](http://npmjs.org) (the recomme
 npm install -g nodemon # or using yarn: yarn global add nodemon
 ```
 
-And nodemon will be installed globally to your system path.
+And nodemon will be installed globally to your system path. Nodemon is awesome !!!
 
 You can also install nodemon as a development dependency:
 
